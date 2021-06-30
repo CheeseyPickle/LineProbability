@@ -24,7 +24,7 @@ public class LineGame {
 				success++;
 			}
 		}
-		System.out.println(success * 1.0 / trials);
+		System.out.println(2 / (success * 1.0 / trials));
 	}
 
 }
